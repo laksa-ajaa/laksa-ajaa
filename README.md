@@ -1,2 +1,6 @@
-![Laksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=laksa-ajaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laksa-ajaa&layout=donut&theme=radical)
+<div align="center">
+<a href="https://github.com/rndio">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=laksa-ajaa&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksa-ajaa&layout=donut&theme=radical&hide_border=true"/>
+</a>
+</div>
